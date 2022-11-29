@@ -1,8 +1,26 @@
-# Hi, i´m Josué Santos 👋
 
- <div>
-  <a href="https://github.com/josuesantos1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josuesantos1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align='center'>
+  <h1>
+     Hi, My name is <a href="https://www.linkedin.com/in/jossdev/">Josué Santos</a>
+  </h1>
 </div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuesantos1)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center">
+  <div align='center'>
+  <img height="194px" src="https://github-readme-stats.vercel.app/api?username=josuesantos1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesantos1&langs_count=8&theme=vision-friendly-dark&hide_border=true">
+</div>
+  
+  <div align = "center">
+  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josuesantos1&theme=highcontrast)](https://git.io/streak-stats)
+  
+</div>
+</div>
+
+  
+  
+  
