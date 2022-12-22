@@ -5,10 +5,6 @@
   </h1>
 </div>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=josuesantos1&theme=dark&border_radius=5&locale=pt-br&mode=weekly)](https://git.io/streak-stats)
-
-
 <div align="center">
   <div align='center'>
   <img height="194px" src="https://github-readme-stats.vercel.app/api?username=josuesantos1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -16,9 +12,7 @@
 </div>
   
   <div align = "center">
-  
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josuesantos1&theme=highcontrast)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=josuesantos1&theme=dark&border_radius=5&locale=pt-br&mode=weekly)](https://git.io/streak-stats)
   
 </div>
 </div>
