@@ -6,6 +6,8 @@
 </div>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=josuesantos1&theme=dark&border_radius=5&locale=pt-br&mode=weekly)](https://git.io/streak-stats)
+
 
 <div align="center">
   <div align='center'>
