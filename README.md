@@ -11,6 +11,6 @@
   <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesantos1&langs_count=8&theme=vision-friendly-dark&hide_border=true">
 </div>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=josuesantos1&theme=dark&border_radius=5&locale=pt-br&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=josuesantos1&theme=dark&border_radius=5&locale=pt-br&mode=day)](https://git.io/streak-stats)
 
 </div>
