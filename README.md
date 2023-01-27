@@ -1,7 +1,7 @@
 
 <div align='center'>
   <h1>
-     Hi, My name is <a href="https://www.linkedin.com/in/jossdev/">Josué Santos</a>
+     Hi, I'm <a href="https://www.linkedin.com/in/jossdev/">Josué Santos</a>
   </h1>
 </div>
 
