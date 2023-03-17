@@ -1,4 +1,18 @@
 
+## principal stack
+- clojure
+- clojurescript
+- datomic
+
+## languages
+- clojure
+- elixir
+- java
+- python
+- javascript
+
+
+
 <div align='center'>
   <h1>
      Hi, I'm <a href="https://www.linkedin.com/in/jossdev/">Josué Santos</a>
