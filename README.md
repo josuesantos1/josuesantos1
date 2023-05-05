@@ -1,5 +1,5 @@
 
-## principal stack
+## stack
 - clojure
 - clojurescript
 - datomic
