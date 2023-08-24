@@ -4,14 +4,6 @@
 - clojurescript
 - datomic
 
-## languages
-- clojure
-- elixir
-- java
-- python
-- javascript
-
-
 
 <div align='center'>
   <h1>
