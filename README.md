@@ -1,22 +1,48 @@
+# Olá! 👋 Eu sou Josue Santos
 
-## stack
-- clojure
-- clojurescript
-- datomic
+### Desenvolvedor Full Stack apaixonado por criar soluções elegantes e eficientes
 
+---
 
-<div align='center'>
-  <h1>
-     Hi, I'm <a href="https://www.linkedin.com/in/jossdev/">Josué Santos</a>
-  </h1>
-</div>
+## 🚀 Sobre mim
 
-<div align="center">
-  <div align='center'>
-  <img height="194px" src="https://github-readme-stats.vercel.app/api?username=josuesantos1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesantos1&langs_count=8&theme=vision-friendly-dark&hide_border=true">
-</div>
+Desenvolvedor com experiência em diversas tecnologias e frameworks, sempre buscando aprender e aplicar as melhores práticas de desenvolvimento de software. Gosto de trabalhar tanto no backend quanto no frontend, criando aplicações completas e escaláveis.
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=josuesantos1&theme=dark&border_radius=5&locale=pt-br&mode=day)](https://git.io/streak-stats)
+## 💻 Tecnologias & Ferramentas
 
-</div>
+**Backend:**
+- Python (Django, Django Ninja)
+- Elixir/Phoenix
+- Clojure
+- Kotlin
+
+**Frontend:**
+- Svelte
+- JavaScript/TypeScript
+- HTML5 & CSS3
+
+**Databases & Tools:**
+- Datomic
+- Git & GitHub
+- RESTful APIs
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuesantos1&show_icons=true&theme=radical)
+
+## 🔥 Projetos em Destaque
+
+## 📫 Como me encontrar
+
+- GitHub: [@josuesantos1](https://github.com/josuesantos1)
+- LinkedIn: [LinkdIn](https://www.linkedin.com/in/jossdev/)
+
+## 📈 Atividade
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josuesantos1&theme=radical)
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+⭐️ From [josuesantos1](https://github.com/josuesantos1)
