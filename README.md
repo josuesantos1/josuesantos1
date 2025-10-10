@@ -116,8 +116,7 @@ Especializado em **Clojure** e **Golang**, transformo desafios complexos em solu
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuesantos1&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josuesantos1&layout=compact&theme=radical&hide_border=true)
 
