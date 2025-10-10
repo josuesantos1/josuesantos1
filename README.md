@@ -22,7 +22,7 @@
 
 Especializado em **Clojure** e **Golang**, transformo desafios complexos em soluções seguras, eficientes e de alta performance. Com expertise em arquiteturas escaláveis, construo sistemas robustos que suportam crescimento e demanda.
 
-🌍 Localizado em **Parauapebas, Pará, Brasil**  
+🌍 Localizado em **Marabá, Pará, Brasil**  
 💡 Focado em programação funcional, microsserviços e sistemas distribuídos  
 🔭 Especialista em Contract Testing e integração segura de sistemas  
 📝 Compartilho conhecimento através do meu [blog técnico](https://joss.fly.dev/)  
