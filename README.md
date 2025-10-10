@@ -14,7 +14,7 @@
 
 </div>
 
-### 💼 Desenvolvedor Full Stack | Especialista em Clojure & Golang | Arquitetura Escalável de Alta Performance
+### 💼 Desenvolvedor Full Stack | Clojure & Golang & Elixir | Arquitetura Escalável de Alta Performance
 
 ---
 
