@@ -36,7 +36,7 @@ Especializado em **Clojure** e **Golang**, transformo desafios complexos em solu
 🐍 Python          → Django, Django Ninja, FastAPI
 🔮 Clojure         → Sistemas funcionais, Datomic, alta concorrência
 🐹 Golang          → Microsserviços, performance, sistemas distribuídos
-⚗️  Elixir/Phoenix  → APIs real-time, sistemas concorrentes
+⚗️ Elixir/Phoenix  → APIs real-time, sistemas concorrentes
 🎯 Kotlin          → Backend robusto, type-safe
 ```
 
@@ -50,7 +50,7 @@ Especializado em **Clojure** e **Golang**, transformo desafios complexos em solu
 ### Databases & Ferramentas
 ```
 💾 Datomic         → Database temporal e imutável
-🗄️  SQL/NoSQL       → PostgreSQL, MongoDB
+🗄️ SQL/NoSQL       → PostgreSQL, MongoDB
 🔧 Git & GitHub    → Controle de versão e colaboração
 🌐 RESTful APIs    → Design e implementação
 ```
