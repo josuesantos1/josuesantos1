@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Josue Santos
+# Olá! 👋 Eu sou Josué Santos
 
 <div align="center">
 
@@ -87,17 +87,6 @@ Especializado em **Clojure** e **Golang**, transformo desafios complexos em solu
 [📖 Ler Artigo](https://joss.fly.dev/posts/contract-testing/)
 
 ---
-
-### 🔮 [Exemplo Datomic](https://github.com/josuesantos1/datomic-exemplo)
-> Demonstração prática do funcionamento do Datomic
-
-**Tech Stack:** Clojure, Datomic  
-**Destaques:**
-- 💾 Database temporal e imutável
-- 🎓 Material educacional
-- ⚡ Exemplos práticos de queries
-
-[🔗 Ver Repositório](https://github.com/josuesantos1/datomic-exemplo)
 
 ---
 
