@@ -40,7 +40,7 @@ Especializado em **Clojure** e **Golang**, transformo desafios complexos em solu
 
 ### Frontend
 ```
-🎨 Svelte          → Interfaces reativas e performáticas
+🎨 Svelte/Reacg    → Interfaces reativas e performáticas
 ⚡ JavaScript/TS   → Desenvolvimento moderno
 🎭 HTML5 & CSS3    → Layouts responsivos e acessíveis
 ```
