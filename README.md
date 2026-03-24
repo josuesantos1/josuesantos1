@@ -1,142 +1,136 @@
-# Olá! 👋 Eu sou Josué Santos
+# Josué Santos
 
-<div align="center">
+### Distributed Systems Engineer • Functional Programming • High-Performance Backend
 
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+Building **scalable, fault-tolerant systems** using functional programming and high-performance runtimes.
 
-</div>
-
-### 💼 Desenvolvedor Full Stack | Clojure & Golang & Elixir | Arquitetura Escalável de Alta Performance
+Specialized in **Clojure, Golang and Elixir**, with experience designing **distributed architectures, concurrent systems and high-throughput services**.
 
 ---
 
-## 🚀 Sobre mim
+## About Me
 
-Especializado em **Clojure** e **Golang**, transformo desafios complexos em soluções seguras, eficientes e de alta performance. Com expertise em arquiteturas escaláveis, construo sistemas robustos que suportam crescimento e demanda.
+Software engineer focused on **backend architecture and distributed systems**.
 
-🌍 Localizado em **Marabá, Pará, Brasil**  
-💡 Focado em programação funcional, microsserviços e sistemas distribuídos  
-📝 Compartilho conhecimento através do meu [blog técnico](https://joss.fly.dev/)  
-🤝 Aberto a colaborações em projetos open source  
+I enjoy solving complex infrastructure problems and building systems that remain **simple, reliable and scalable under heavy load**.
+
+**Main interests**
+
+• Functional programming
+• Distributed systems
+• High-performance APIs
+• Data processing pipelines
+• Database internals
+
+Currently exploring:
+
+• Service Mesh & Observability
+• Event-driven architectures
+• Streaming systems (Flink / Kafka)
+• Cloud-native infrastructure
+
+Location: Brazil
+Open to: Remote opportunities worldwide
 
 ---
 
-## 💻 Stack Tecnológica
+# Tech Stack
+
+### Languages
+
+Go
+Clojure
+Elixir
+Python
+Kotlin
+TypeScript
 
 ### Backend
-```
-🔮 Clojure         → Sistemas funcionais, Datomic, alta concorrência
-🐹 Golang          → Microsserviços, performance, sistemas distribuídos
-⚗️ Elixir/Phoenix  → APIs real-time, sistemas concorrentes
-```
 
-### Frontend
-```
-🎨 Svelte/Reacg    → Interfaces reativas e performáticas
-⚡ JavaScript/TS   → Desenvolvimento moderno
-🎭 HTML5 & CSS3    → Layouts responsivos e acessíveis
-```
+Phoenix
+Pedestal
+Django
+Node.js
 
-### Databases & Ferramentas
-```
-💾 Datomic         → Database temporal e imutável
-🗄️ SQL/NoSQL       → PostgreSQL, MongoDB
-🔧 Git & GitHub    → Controle de versão e colaboração
-🌐 RESTful APIs    → Design e implementação
-```
+### Databases
 
----
+PostgreSQL
+Datomic
+Redis
+MongoDB
 
-## 🔥 Projetos em Destaque
+### Infrastructure
 
-### 🎲 [Cube - Sharded Key-Value Database](https://github.com/josuesantos1/cube)
-> Database de alta performance com sharding, transações ACID e MVCC construído em Elixir
-
-**Tech Stack:** Elixir, Bandit/Plug, Docker  
-**Destaques:**
-- 💾 **20 shards paralelos** com consistent hashing para acesso concorrente
-- 🔒 **Transações ACID completas** (BEGIN, COMMIT, ROLLBACK)
-- 🚀 **MVCC (Multi-Version Concurrency Control)** com snapshot isolation
-- ⚡ **Cache in-memory** com write-through para performance
-- 📝 **WAL (Write-Ahead Logging)** para durabilidade de dados
-- 🌸 **Bloom Filters** para otimização de leitura
-- 🐳 **Suporte Docker** com armazenamento persistente
-- 🎯 **HTTP RESTful API** pronta para uso
-
-[🔗 Ver Repositório](https://github.com/josuesantos1/cube) | [📖 Documentação Completa](https://github.com/josuesantos1/cube#readme)
+Docker
+GitHub Actions
+CI/CD pipelines
+REST APIs
+Microservices
 
 ---
 
-### 💡 [Contract Testing com Pact](https://joss.fly.dev/posts/contract-testing/)
-> Artigo técnico sobre integração segura de sistemas usando Contract Testing
+# Featured Project
 
-**Tech Stack:** Pact, Microsserviços, APIs  
-**Destaques:**
-- 📝 Publicado no meu blog técnico
-- 🔒 Foco em integração segura
-- 🎯 Boas práticas de teste
+## Cube — Distributed Key-Value Database
 
-[📖 Ler Artigo](https://joss.fly.dev/posts/contract-testing/)
+High-performance **sharded key-value database** built in Elixir.
+
+Designed to explore **database internals, concurrency models and distributed storage patterns.**
+
+### Core features
+
+• Consistent hashing with **parallel shards**
+• **ACID transactions**
+• **MVCC (Multi-Version Concurrency Control)**
+• **Write-Ahead Logging (WAL)**
+• **Bloom Filters** for read optimization
+• In-memory cache layer
+• HTTP API interface
+
+Tech stack:
+
+Elixir • Plug/Bandit • Docker
+
+Repository
+https://github.com/josuesantos1/cube
 
 ---
 
+# Writing
+
+I share engineering insights on my blog.
+
+**Contract Testing with Pact**
+
+How to build **safe integrations between microservices** using consumer-driven contracts.
+
+https://joss.fly.dev/posts/contract-testing/
+
 ---
 
-## 🌱 Atualmente Estudando
+# GitHub Stats
 
-- 🏗️ **Arquitetura de Microsserviços** - Padrões avançados e observabilidade
-- 🔧 **Service Mesh** - Istio e gerenciamento de tráfego
-- 🧪 **Contract Testing Avançado** - Expandindo expertise em Pact
-- 🚀 **Kubernetes & Cloud Native** - Orquestração e escalabilidade
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josuesantos1\&layout=compact)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josuesantos1&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuesantos1\&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josuesantos1&theme=radical&hide_border=true)
 
-</div>
+---
+
+# Contact
+
+GitHub
+https://github.com/josuesantos1
+
+LinkedIn
+https://www.linkedin.com/in/jossdev
+
+Blog
+https://joss.fly.dev
+
 
 ---
 
-## 📫 Vamos Conversar?
-
-Estou sempre aberto a discussões sobre tecnologia, colaborações em projetos interessantes ou apenas para trocar ideias!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josuesantos1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossdev/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://joss.fly.dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=josuesantos1.josuesantos1)
-
-⭐️ **Se você gostou dos meus projetos, considere dar uma estrela!**
-
-</div>
-
----
-
-⚡ **Fun fact:** Programação funcional com Clojure mudou completamente a forma como penso sobre arquitetura de software!
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
+— Harold Abelson
