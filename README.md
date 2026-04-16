@@ -98,13 +98,6 @@ https://github.com/josuesantos1/cube
 
 # Writing
 
-I share engineering insights on my blog.
-
-**Contract Testing with Pact**
-
-How to build **safe integrations between microservices** using consumer-driven contracts.
-
-https://joss.fly.dev/posts/contract-testing/
 
 ---
 
