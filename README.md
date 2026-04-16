@@ -4,7 +4,7 @@
 
 Building **scalable, fault-tolerant systems** using functional programming and high-performance runtimes.
 
-Specialized in **Clojure, Golang and Elixir**, with experience designing **distributed architectures, concurrent systems and high-throughput services**.
+Specialized in **Clojure and Golang **, with experience designing **distributed architectures, concurrent systems and high-throughput services**.
 
 ---
 
