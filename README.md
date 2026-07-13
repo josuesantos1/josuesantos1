@@ -1,129 +1,89 @@
 # Josué Santos
 
-### Distributed Systems Engineer • Functional Programming • High-Performance Backend
+### Backend Engineer • Distributed Systems • Payments & Fintech Infrastructure
 
-Building **scalable, fault-tolerant systems** using functional programming and high-performance runtimes.
+Building **scalable, fault-tolerant systems** using functional programming and high-performance runtimes — with production experience in **card authorization, regulatory reporting, and fraud detection** at scale.
 
-Specialized in **Clojure and Golang **, with experience designing **distributed architectures, concurrent systems and high-throughput services**.
+Specialized in **Go, Clojure, and Elixir**, with hands-on depth in **distributed architectures, concurrent systems, and database internals**.
 
 ---
 
 ## About Me
 
-Software engineer focused on **backend architecture and distributed systems**.
+Backend engineer focused on systems where correctness isn't optional — payment authorization, ledgers, and fraud detection, where a bug isn't just a bug, it's a financial or regulatory incident.
 
-I enjoy solving complex infrastructure problems and building systems that remain **simple, reliable and scalable under heavy load**.
+Professionally, I've worked on **ISO 8583 message processing** for card authorization, **regulatory reporting** (CADOC, DIMP) for financial compliance, and **fraud detection** at Nubank's scale. Outside client work, I build the infrastructure layer most engineers treat as a black box — most recently, a sharded key-value database from scratch to understand how consistency guarantees actually work under concurrent writes.
 
-**Main interests**
+I gravitate toward functional programming for the reasoning guarantees it gives you around state and concurrency, and I care more about systems staying **simple, correct, and reliable under load** than about using the newest tool.
 
-• Functional programming
-• Distributed systems
-• High-performance APIs
-• Data processing pipelines
-• Database internals
+**Core interests**
+- Distributed systems & database internals
+- Payment systems & financial infrastructure
+- Functional programming
+- High-performance, concurrent APIs
+- Event-driven architecture
 
-Currently exploring:
+**Currently exploring**
+- Streaming systems (Kafka / Flink)
+- Service mesh & observability
+- Cloud-native infrastructure
 
-• Service Mesh & Observability
-• Event-driven architectures
-• Streaming systems (Flink / Kafka)
-• Cloud-native infrastructure
-
-Location: Brazil
-Open to: Remote opportunities worldwide
+📍 Brazil — open to remote opportunities worldwide
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-### Languages
+**Languages**
+`Go` `Clojure` `Elixir` `Python` `Kotlin` `TypeScript`
 
-Go
-Clojure
-Elixir
-Python
-Kotlin
-TypeScript
+**Backend & Frameworks**
+`Phoenix` `Pedestal` `Django` `Node.js`
 
-### Backend
+**Databases**
+`PostgreSQL` `Datomic` `Redis` `MongoDB`
 
-Phoenix
-Pedestal
-Django
-Node.js
+**Infrastructure**
+`Docker` `GitHub Actions` `CI/CD` `REST APIs` `Microservices`
 
-### Databases
-
-PostgreSQL
-Datomic
-Redis
-MongoDB
-
-### Infrastructure
-
-Docker
-GitHub Actions
-CI/CD pipelines
-REST APIs
-Microservices
+**Domain**
+`ISO 8583` `Payment Authorization` `Regulatory Reporting` `Fraud Detection`
 
 ---
 
-# Featured Project
+## Featured Project
 
-## Cube — Distributed Key-Value Database
+### 🧊 Cube — Distributed Key-Value Database
+A sharded key-value database built from scratch in Elixir to explore database internals, concurrency models, and distributed storage patterns firsthand.
 
-High-performance **sharded key-value database** built in Elixir.
+**Core features**
+- Consistent hashing with parallel shards
+- ACID transactions
+- MVCC (Multi-Version Concurrency Control)
+- Write-Ahead Logging (WAL)
+- Bloom filters for read optimization
+- In-memory cache layer
+- HTTP API interface
 
-Designed to explore **database internals, concurrency models and distributed storage patterns.**
-
-### Core features
-
-• Consistent hashing with **parallel shards**
-• **ACID transactions**
-• **MVCC (Multi-Version Concurrency Control)**
-• **Write-Ahead Logging (WAL)**
-• **Bloom Filters** for read optimization
-• In-memory cache layer
-• HTTP API interface
-
-Tech stack:
-
-Elixir • Plug/Bandit • Docker
-
-Repository
-https://github.com/josuesantos1/cube
+**Stack:** Elixir · Plug/Bandit · Docker
+**Repo:** [github.com/josuesantos1/cube](https://github.com/josuesantos1/cube)
 
 ---
 
-# Writing
+## GitHub Stats
 
-
----
-
-# GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josuesantos1\&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuesantos1\&show_icons=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josuesantos1&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuesantos1&show_icons=true&theme=radical&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josuesantos1&theme=radical&hide_border=true)
 
 ---
 
-# Contact
+## Contact
 
-GitHub
-https://github.com/josuesantos1
-
-LinkedIn
-https://www.linkedin.com/in/jossdev
-
-Blog
-https://joss.fly.dev
-
+- GitHub: [github.com/josuesantos1](https://github.com/josuesantos1)
+- LinkedIn: [linkedin.com/in/jossdev](https://www.linkedin.com/in/jossdev)
+- Blog: [joss.fly.dev](https://joss.fly.dev)
 
 ---
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
-— Harold Abelson
+*"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
